@@ -18,6 +18,25 @@ To run the tests for just a *single* concept:
 
 `npm run testContext` or  `npm run testScope` or  `npm run testPrototypes`
 
+## Single DataSets
+-[ ] Kitties
+-[ ] Mods
+-[ ] Cakes
+-[ ] Classroom
+-[ ] Books
+-[ ] Weather
+-[ ] NationalParks
+-[ ] Brewery
+-[ ] Clubs
+
+## Double DataSets
+-[ ] Turing
+-[ ] Bosses
+-[ ] Astronomy
+-[ ] Ultima
+-[ ] Dinosaur
+
+
 ## Pulling Down Repo Changes
 
 You have now cloned your forked version of JSFun to your machine. As instructors make changes to the repo (adding exercises, fixing tests, changing problems, etc.) you'll need to pull down those changes. In order to do so, we must link your copy of JSFun on your machine to the Turing github version by adding a new remote repository.
