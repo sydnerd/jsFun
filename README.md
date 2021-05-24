@@ -19,9 +19,9 @@ To run the tests for just a *single* concept:
 `npm run testContext` or  `npm run testScope` or  `npm run testPrototypes`
 
 ## Single DataSets
-- [ ] Kitties
-- [ ] Mods
-- [ ] Cakes
+- [X] Kitties
+- [X] Mods
+- [X] Cakes
 - [ ] Classroom
 - [ ] Books
 - [ ] Weather
