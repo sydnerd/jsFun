@@ -22,7 +22,7 @@ To run the tests for just a *single* concept:
 - [X] Kitties
 - [X] Mods
 - [X] Cakes
-- [ ] Classroom
+- [X] Classroom
 - [ ] Books
 - [ ] Weather
 - [ ] NationalParks
