@@ -23,9 +23,9 @@ To run the tests for just a *single* concept:
 - [X] Mods
 - [X] Cakes
 - [X] Classroom
-- [X] Books
-- [X] Weather
-- [X] NationalParks
+- [ ] Books
+- [ ] Weather
+- [ ] NationalParks
 - [ ] Brewery
 - [ ] Clubs
 
