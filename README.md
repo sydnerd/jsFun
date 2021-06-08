@@ -26,13 +26,13 @@ To run the tests for just a *single* concept:
 - [X] Books
 - [X] Weather
 - [X] NationalParks
-- [ ] Brewery
-- [ ] Clubs
+- [X] Brewery
+- [X] Clubs
 
 ## Double DataSets
 - [ ] Turing
-- [ ] Bosses
-- [ ] Astronomy
+- [X] Bosses
+- [X] Astronomy
 - [ ] Ultima
 - [ ] Dinosaur
 
